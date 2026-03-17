@@ -1,4 +1,4 @@
-# Integrating NetApp Trident with RHACM Observability
+# Integrating NetApp Trident Metrics with RHACM Observability
 
 ## Overview
 
