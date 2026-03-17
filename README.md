@@ -110,7 +110,7 @@ Execute these steps on your central RHACM Hub cluster.
 Download the official NetApp Trident dashboard for Kubernetes:
 
 ```bash
-curl -sL "https://raw.githubusercontent.com/YvosOnTheHub/LabNetApp/master/Kubernetes_v6/Trident_Scenarios/Scenario03/2_Grafana/Dashboards/Trident_Dashboard_24.06.json" > Trident_Raw.json
+curl -sL "https://raw.githubusercontent.com/YvosOnTheHub/LabNetApp/refs/heads/master/Kubernetes_v6/Trident_Scenarios/Scenario03/2_Grafana/Dashboards/Trident_Dashboard_24.06.json" > Trident_Raw.json
 ```
 
 ### 2. Patch the Datasource UID
