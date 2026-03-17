@@ -6,7 +6,7 @@ By default, RHACM only collects core OpenShift platform metrics. To view NetApp 
 
 1. Enable User Workload Monitoring
 2. Explicitly allow the Trident metrics to traverse the network
-3. Inject a custom dashboard into the RHACM Grafana sidecar
+3. Inject a custom dashboard into the RHACM Grafana 
 
 ---
 
